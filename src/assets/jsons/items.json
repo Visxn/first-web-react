@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Iphone 18",
+        "price": 799.99,
+        "sale_price": 699.99
+    },
+    {
+        "id": 2,
+        "name": "Macbook Air",
+        "price": 1200.0,
+        "sale_price": 1050.0
+    },
+    {
+        "id": 3,
+        "name": "Ipad",
+        "price": 499.99,
+        "sale_price": 449.99
+    },
+    {
+        "id": 4,
+        "name": "Airpods",
+        "price": 150.0,
+        "sale_price": 129.99
+    },
+    {
+        "id": 5,
+        "name": "Cámara digital 4K",
+        "price": 899.0,
+        "sale_price": 849.0
+    },
+    {
+        "id": 6,
+        "name": "Reloj inteligente Gen 2",
+        "price": 299.99,
+        "sale_price": 279.99
+    },
+    {
+        "id": 7,
+        "name": "Play Station 5",
+        "price": 499.0,
+        "sale_price": 469.0
+    }
+]
